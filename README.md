@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nocile
+- 👀 I’m interested in Junior-Programming
+- 🌱 I’m currently learning C++
+- 📫 You can't currently reach me
