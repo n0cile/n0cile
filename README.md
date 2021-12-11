@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Nocile
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
-- 📫 You can't currently reach me
+ching chong ding dong
